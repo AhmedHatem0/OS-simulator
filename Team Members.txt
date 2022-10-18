@@ -1,0 +1,3 @@
+Code parser/interpreter:                                Mohammed shetaya       46-16076
+The assign instruction:                                 Samer Walaa Gabra      46-18648
+The add, read file and write file instructions:         Mahmoud Mohamed Aly    46-18406
